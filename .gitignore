@@ -5,4 +5,5 @@ data/processed/
 powerpulse.db
 __pycache__/
 PHASE_*_WALKTHROUGH.md
+PHASE_0_1_WALKTHROUGH.md
 PROJECT_GUIDE.md
