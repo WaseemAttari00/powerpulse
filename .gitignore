@@ -4,3 +4,5 @@ data/processed/
 *.ipynb_checkpoints
 powerpulse.db
 __pycache__/
+PHASE_*_WALKTHROUGH.md
+PROJECT_GUIDE.md
